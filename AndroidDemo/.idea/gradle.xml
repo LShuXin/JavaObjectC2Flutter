@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/../flutter_library/.android/Flutter" />
+            <option value="$USER_HOME$/IDE/flutter/.pub-cache/hosted/pub.flutter-io.cn/connectivity-3.0.6/android" />
+            <option value="$USER_HOME$/IDE/flutter/.pub-cache/hosted/pub.flutter-io.cn/device_info-2.0.2/android" />
+            <option value="$USER_HOME$/IDE/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_plugin_android_lifecycle-2.0.5/android" />
+            <option value="$USER_HOME$/IDE/flutter/.pub-cache/hosted/pub.flutter-io.cn/fluttertoast-8.0.9/android" />
+            <option value="$USER_HOME$/IDE/flutter/.pub-cache/hosted/pub.flutter-io.cn/geolocator-7.3.1/android" />
+            <option value="$USER_HOME$/IDE/flutter/.pub-cache/hosted/pub.flutter-io.cn/image_picker-0.8.4+4/android" />
+            <option value="$USER_HOME$/IDE/flutter/.pub-cache/hosted/pub.flutter-io.cn/launch_review-3.0.1/android" />
+            <option value="$USER_HOME$/IDE/flutter/.pub-cache/hosted/pub.flutter-io.cn/package_info-2.0.2/android" />
+            <option value="$USER_HOME$/IDE/flutter/.pub-cache/hosted/pub.flutter-io.cn/path_provider_android-2.0.11/android" />
+            <option value="$USER_HOME$/IDE/flutter/.pub-cache/hosted/pub.flutter-io.cn/permission_handler-8.1.4+2/android" />
+            <option value="$USER_HOME$/IDE/flutter/.pub-cache/hosted/pub.flutter-io.cn/quick_actions-0.6.0+7/android" />
+            <option value="$USER_HOME$/IDE/flutter/.pub-cache/hosted/pub.flutter-io.cn/share_plus-2.1.5/android" />
+            <option value="$USER_HOME$/IDE/flutter/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences-2.0.5/android" />
+            <option value="$USER_HOME$/IDE/flutter/.pub-cache/hosted/pub.flutter-io.cn/sqflite-2.0.2/android" />
+            <option value="$USER_HOME$/IDE/flutter/.pub-cache/hosted/pub.flutter-io.cn/url_launcher-6.0.12/android" />
+            <option value="$USER_HOME$/IDE/flutter/.pub-cache/hosted/pub.flutter-io.cn/webview_flutter-2.0.13/android" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+    <option name="offlineMode" value="true" />
+  </component>
+</project>

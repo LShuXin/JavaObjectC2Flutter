@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidDemo</string>
+    <string name="use_flutter_engine_cache">FlutterEngineCache</string>
+</resources>
